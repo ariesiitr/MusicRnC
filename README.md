@@ -19,4 +19,4 @@ Yashovardhan
 Mentored By:
 Shreshth Mehrotra
 
-Aishwarya Rao Maratha
+Ashwarya Rao Maratha
