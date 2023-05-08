@@ -1,5 +1,5 @@
 # MusicRnC
-A Machine Learning approach to Classify Music and and Recommend according to your taste using CNN algorithm.
+A project that utilizes Convolutional Neural Networks to create a music recommendation system and genre classification, providing a personalized and seamless listening experience.
 
 [Related Presentation (Must see)](https://docs.google.com/presentation/d/1zzPMQsCPdOJwwZgkPYTzKr8t4RiqIoSack5H5CHUUow/edit?usp=sharing)
 
