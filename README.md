@@ -111,7 +111,7 @@ Siddhant Gupta
 
 Vidhi Gupta
 
-Yashovardhan
+Yashovardhan Pandey
 
 (Students of IIT Roorkee B.tech. First Year)
 
